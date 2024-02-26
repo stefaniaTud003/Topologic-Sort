@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tema3-TopologicSort", "Tema3-TopologicSort\Tema3-TopologicSort.vcxproj", "{7BD8A453-B007-4D57-A300-32E24DCB5442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD8A453-B007-4D57-A300-32E24DCB5442}.Debug|x64.ActiveCfg = Debug|x64
+		{7BD8A453-B007-4D57-A300-32E24DCB5442}.Debug|x64.Build.0 = Debug|x64
+		{7BD8A453-B007-4D57-A300-32E24DCB5442}.Release|x64.ActiveCfg = Release|x64
+		{7BD8A453-B007-4D57-A300-32E24DCB5442}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {998964DB-F198-443F-B930-08075982A50B}
+	EndGlobalSection
+EndGlobal
